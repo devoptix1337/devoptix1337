@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devoptix1337
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Godot
-- 💞️ I’m looking to collaborate on Game Development
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript ES6, JQuery, Node.js, react.js.
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me via discord. Username zcb_optix
 - ⚡ Fun fact: 1+1 does in fact = 2
 
